@@ -1,16 +1,15 @@
 {
   "schemaVersion": 1,
   "productId": "dream-pc-tool",
-  "version": "2.51.0",
+  "version": "2.51.1",
   "minimumVersion": null,
-  "publishedAt": "2026-08-17T19:27:00Z",
-  "downloadUrl": "https://github.com/drealtlab/dream-alchemist-updates/releases/download/v2.51/dream-pc-tool.exe",
-  "sha256": "ce6a06e146c98ed38dd2ff265a592b2848a0f8a85de685dcd6a7aa0c64ea7994",
+  "publishedAt": "2026-08-17T21:57:00Z",
+  "downloadUrl": "https://raw.githubusercontent.com/drealtlab/dream-alchemist-updates/main/bootstrap/v2.51.1/dream-pc-tool-bridge.exe",
+  "sha256": "0BCE67C326CCFBA4149EB1EFD5A479E726502CE16187FBD22D2E38539010B677",
   "mandatory": false,
   "notes": [
-    "무료 배포용 자동 업데이트 기준 버전",
-    "보호 강화 적용",
-    "Native Runtime 보호 적용",
-    "자동 업데이트 기능 적용"
+    "V2.52 전환용 1회성 업데이트",
+    "공식 V2.52 다운로드 및 보호 검증",
+    "V2.52 정식 프로그램 아이콘 적용"
   ]
 }
