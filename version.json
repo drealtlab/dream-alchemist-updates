@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "productId": "dream-pc-tool",
+  "version": "2.51.0",
+  "minimumVersion": null,
+  "publishedAt": "2026-08-17T19:27:00Z",
+  "downloadUrl": "https://github.com/drealtlab/dream-alchemist-updates/releases/download/v2.51/dream-pc-tool.exe",
+  "sha256": "e3e7369969ea3439bc431973bc7ca41034e1d6b5ab790599346f967c571b83fa",
+  "mandatory": false,
+  "notes": [
+    "무료 배포용 자동 업데이트 기준 버전",
+    "보호 강화 적용",
+    "Native Runtime 보호 적용",
+    "자동 업데이트 기능 적용"
+  ]
+}
