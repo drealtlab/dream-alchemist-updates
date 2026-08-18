@@ -7,8 +7,8 @@
   "downloadUrl": "https://github.com/drealtlab/dream-alchemist-updates/releases/download/v3.3/dream-pc-tool.exe",
   "sha256": "E246CA0C61625E7013605B620B0A1E19005616C1C7BA70D7DC4BBEAD31C8DDB5",
   "mandatory": false,
-  "serviceStatus": "active",
-  "serviceMessage": "",
+  "serviceStatus": "disabled",
+  "serviceMessage": "잠시 중단",
   "notes": [
     "꿈금술사 PC 종합 관리 도구 V3.3",
     "원격 차단 상태의 오프라인 우선순위 수정",
