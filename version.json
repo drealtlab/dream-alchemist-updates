@@ -7,8 +7,8 @@
   "downloadUrl": "https://github.com/drealtlab/dream-alchemist-updates/releases/download/v3.2/dream-pc-tool.exe",
   "sha256": "57005B95E657C79430FE0FA0667FEC3F7B8BB61ACADC36962AC6E0BFD6D8DD77",
   "mandatory": false,
-  "serviceStatus": "active",
-  "serviceMessage": "",
+  "serviceStatus": "disable",
+  "serviceMessage": "프로그램 사용 일시 중단",
   "notes": [
     "꿈금술사 PC 종합 관리 도구 V3.2",
     "원격 사용 상태 active 복구 안정화",
