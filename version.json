@@ -1,17 +1,19 @@
 {
   "schemaVersion": 1,
   "productId": "dream-pc-tool",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "minimumVersion": null,
-  "publishedAt": "2026-08-18T02:41:00Z",
-  "downloadUrl": "https://github.com/drealtlab/dream-alchemist-updates/releases/download/v3.3/dream-pc-tool.exe",
-  "sha256": "E246CA0C61625E7013605B620B0A1E19005616C1C7BA70D7DC4BBEAD31C8DDB5",
+  "publishedAt": "2026-08-18T03:15:00Z",
+  "downloadUrl": "https://github.com/drealtlab/dream-alchemist-updates/releases/download/v3.4/dream-pc-tool.exe",
+  "sha256": "6EB7E9956BD51E6D5056032E9B436D7986DCB50E0EE391FF573208B756FB98B4",
   "mandatory": false,
-  "serviceStatus": "disabled",
-  "serviceMessage": "잠시 중단",
+  "serviceStatus": "active",
+  "serviceMessage": "",
+  "serviceCheckSeconds": 60,
   "notes": [
-    "꿈금술사 PC 종합 관리 도구 V3.3",
-    "원격 차단 상태의 오프라인 우선순위 수정",
+    "꿈금술사 PC 종합 관리 도구 V3.4",
+    "원격 차단 상태의 오프라인 저장 및 복구 안정화",
+    "원격 상태 확인 주기 기본 60초",
     "오프라인 사용 24시간 허용",
     "자동 업데이트 및 보호 구조 유지"
   ]
