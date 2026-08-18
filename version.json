@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "productId": "dream-pc-tool",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "minimumVersion": null,
-  "publishedAt": "2026-08-18T02:06:00Z",
-  "downloadUrl": "https://github.com/drealtlab/dream-alchemist-updates/releases/download/v3.2/dream-pc-tool.exe",
-  "sha256": "57005B95E657C79430FE0FA0667FEC3F7B8BB61ACADC36962AC6E0BFD6D8DD77",
+  "publishedAt": "2026-08-18T02:41:00Z",
+  "downloadUrl": "https://github.com/drealtlab/dream-alchemist-updates/releases/download/v3.3/dream-pc-tool.exe",
+  "sha256": "E246CA0C61625E7013605B620B0A1E19005616C1C7BA70D7DC4BBEAD31C8DDB5",
   "mandatory": false,
   "serviceStatus": "active",
   "serviceMessage": "",
   "notes": [
-    "꿈금술사 PC 종합 관리 도구 V3.2",
-    "원격 사용 상태 active 복구 안정화",
+    "꿈금술사 PC 종합 관리 도구 V3.3",
+    "원격 차단 상태의 오프라인 우선순위 수정",
     "오프라인 사용 24시간 허용",
     "자동 업데이트 및 보호 구조 유지"
   ]
