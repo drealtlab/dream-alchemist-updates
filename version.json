@@ -1,16 +1,18 @@
 {
   "schemaVersion": 1,
   "productId": "dream-pc-tool",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "minimumVersion": null,
-  "publishedAt": "2026-08-17T23:25:00Z",
-  "downloadUrl": "https://github.com/drealtlab/dream-alchemist-updates/releases/download/v3.0/dream-pc-tool.exe",
-  "sha256": "2DF9C1FDCBC6A62F7DA931E6F98495FFF062BB71D1CDEC023FB6898E3682F334",
+  "publishedAt": "2026-08-18T01:42:00Z",
+  "downloadUrl": "https://github.com/drealtlab/dream-alchemist-updates/releases/download/v3.1/dream-pc-tool.exe",
+  "sha256": "6750C583A634CF74D9755B093BC449ACA62520891C82F265F3CEFD68954EC8CE",
   "mandatory": false,
+  "serviceStatus": "active",
+  "serviceMessage": "",
   "notes": [
-    "꿈금술사 PC 종합 관리 도구 V3.0 최초 정식 무료 배포",
-    "무확인 자동 업데이트 지원",
-    "보호 강화 및 Native Runtime 적용",
-    "정식 프로그램 아이콘 적용"
+    "꿈금술사 PC 종합 관리 도구 V3.1",
+    "원격 사용 상태 제어 기능 적용",
+    "오프라인 사용 24시간 허용",
+    "자동 업데이트 및 보호 구조 유지"
   ]
 }
